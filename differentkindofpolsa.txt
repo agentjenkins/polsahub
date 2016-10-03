@@ -2,3 +2,4 @@
 - tomatpölsa
 - gurkpölsa
 - plommonpölsa
+- knäckebröpölsa
