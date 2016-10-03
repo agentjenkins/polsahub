@@ -1,2 +1,2 @@
 # polsahub
-How to eat pölsa
+How to eat pölsa @ Home
